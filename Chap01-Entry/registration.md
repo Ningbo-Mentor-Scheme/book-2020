@@ -50,7 +50,6 @@ Email:      kobenorriswu@gmail.com
 
 * 报到流程：首先于巴克莱银行缴费，保存小票。于线上预约时间携所需材料前往 [Cherry Tree Lodge](https://www.nottingham.ac.uk/currentstudents/international-students/index.aspx) 注册
 
-
     ![avatar](./image/park-campus-map.jpg)
 
     （见 Building 13，红色 block 圈出，较小）
