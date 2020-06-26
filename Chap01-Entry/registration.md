@@ -1,6 +1,6 @@
 <!-- 
 Author:     Kejia Wu
-Version:    1.0
+Version:    1.1
 Email:      kobenorriswu@gmail.com
 -->
 
@@ -16,7 +16,9 @@ Email:      kobenorriswu@gmail.com
 
 * 报到方式：[MyNottingham](https://mynottingham.nottingham.ac.uk) 线上报到
 
-* 报到流程：登录 [MyNottingham](https://mynottingham.nottingham.ac.uk) 并点击线上报到 (Online Registration)，后按提示完成线上注册
+* 报到流程：
+
+    登录 [MyNottingham](https://mynottingham.nottingham.ac.uk) 并点击线上报到 (Online Registration)，后按提示完成线上注册
 
     ![avatar](./image/online-registration-process.png)
 
@@ -48,8 +50,17 @@ Email:      kobenorriswu@gmail.com
 
 * 报到方式：线下，Park 校区 Cherry Tree Lodge，需预约
 
-* 报到流程：首先于巴克莱银行缴费，保存小票。于线上预约时间携所需材料前往 [Cherry Tree Lodge](https://www.nottingham.ac.uk/currentstudents/international-students/index.aspx) 注册
+* 报到流程：
+
+    首先于巴克莱银行缴费，保存小票，下附较近一家巴克莱银行的地址
+    
+    详细地址：Barclays Bank, 2 High St, Nottingham NG1 2EN, UK （Google Map 请输入详细地址查询）
+
+    ![avatar](./image/barclays-bank-location.jpg)
+    
+    于线上预约时间携所需材料前往 [Cherry Tree Lodge](https://www.nottingham.ac.uk/currentstudents/international-students/index.aspx) 注册
 
     ![avatar](./image/park-campus-map.jpg)
 
     （见 Building 13，红色 block 圈出，较小）
+
