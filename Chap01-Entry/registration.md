@@ -20,7 +20,7 @@ Email:      kobenorriswu@gmail.com
 
     登录 [MyNottingham](https://mynottingham.nottingham.ac.uk) 并点击线上报到 (Online Registration)，后按提示完成线上注册
 
-    ![avatar](./image/online-registration-process.png)
+    ![avatar](../image/Chap01-Entry/online-registration-process.png)
 
     (邮件原件就这么糊，凑合看看吧)
 
@@ -56,11 +56,11 @@ Email:      kobenorriswu@gmail.com
     
     详细地址：Barclays Bank, 2 High St, Nottingham NG1 2EN, UK （Google Map 请输入详细地址查询）
 
-    ![avatar](./image/barclays-bank-location.jpg)
+    ![avatar](../image/Chap01-Entry/barclays-bank-location.jpg)
     
     于线上预约时间携所需材料前往 [Cherry Tree Lodge](https://www.nottingham.ac.uk/currentstudents/international-students/index.aspx) 注册
 
-    ![avatar](./image/park-campus-map.jpg)
+    ![avatar](../image/Chap01-Entry/park-campus-map.jpg)
 
     （见 Building 13，红色 block 圈出，较小）
 
