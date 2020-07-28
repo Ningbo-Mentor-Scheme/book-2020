@@ -1,7 +1,7 @@
 # Summary
 
 * [book-2020 企划](README.md)
-* [入学UNUK](Chap01-Entry/README.md)
+* [入学 UNUK](Chap01-Entry/README.md)
     * [签证办理](Chap01-Entry/visa.md)
     <!-- * [特刊：起飞之前，忘带了什么？](Chap01-Entry/flight.md) -->
     * [到校（英）报道](Chap01-Entry/registration.md)
