@@ -1,12 +1,12 @@
 # Summary
 
 * [book-2020 企划](README.md)
-* [入学 UNUK](Chap01-Entry/README.md)
+* [入学UNUK](Chap01-Entry/README.md)
     * [签证办理](Chap01-Entry/visa.md)
-    <!-- * [特刊：起飞之前，忘带了什么？](Chap01-Entry/flight.md) -->
+    * [特刊：起飞之前，忘带了什么？](Chap01-Entry/flight.md)
     * [到校（英）报道](Chap01-Entry/registration.md)
-    <!-- * [院内迎新](Chap01-Entry/schoolwelcome.md) -->
-<!-- * [生活指南](Chap02-Life/README.md)
+    * [院内迎新](Chap01-Entry/schoolwelcome.md)
+* [生活指南](Chap02-Life/README.md)
     * [特刊：如何在英尽快安顿？](Chap02-Life/settle.md)
     * [饮食](Chap02-Life/food.md)
     * [交通](Chap02-Life/transportation.md)
@@ -22,5 +22,5 @@
 * [生涯建议](Chap04-Career/README.md)
     * [大四](Chap04-Career/finalyear.md)
     * [申研](Chap04-Career/postgraduate.md)
-    * [就业](Chap04-Career/employment.md) -->
+    * [就业](Chap04-Career/employment.md)
 * [后记](POST.md)
