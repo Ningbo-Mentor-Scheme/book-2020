@@ -60,7 +60,7 @@ Email:      kobenorriswu@gmail.com
     
     2. 于线上预约时间携所需材料前往 [Cherry Tree Lodge](https://www.nottingham.ac.uk/currentstudents/international-students/index.aspx) 注册
 
-        ![avatar](../image/Chap01-Entry/registration/park-campus-map.jpg)
+        ![avatar](../image/Chap01-Entry/registration/cherry-tree-lodge.jpg)
 
         （见 Building 13，红色 block 圈出，较小）
 
@@ -74,11 +74,20 @@ Email:      kobenorriswu@gmail.com
 
 * 通知方式：邮件
 
-* 必要材料：学生卡，VISA (材料现场填写)
+* 必要材料：学生卡（学生证），VISA (材料现场填写)
 
 * 注册流程 (此为往年注册流程)：
 
-    1. 
+    1. 在入学注册后，携学生卡（学生证）和 VISA 前往 [Cripps Health Centre](https://www.unhs.co.uk/) 进行 NHS 注册 并补打疫苗
+
+        ![avatar](../image/Chap01-Entry/registration/cripps-health-centre.png)
+
+        （见 Building 59，红色 block 圈出）
+
+    2. 补打疫苗可能会分为两个阶段，second dose 会要求在一段时间后自行前往补打
+
+    3. 注册成功后会收到确认信件
+
 
 ### 2. 错过学校注册
 
