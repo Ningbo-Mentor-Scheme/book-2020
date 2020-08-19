@@ -68,9 +68,9 @@ Email:      kobenorriswu@gmail.com
 
 ## 4. NHS 注册 -- NHS Registration
 
-### 1. 开学于学校注册
+### 1. 开学第一轮注册
 
-* 开始时间：于线下报到一致 (今年待通知)
+* 开始时间：与线下报到一致 (今年待通知)
 
 * 通知方式：邮件
 
@@ -78,22 +78,22 @@ Email:      kobenorriswu@gmail.com
 
 * 注册流程 (此为往年注册流程)：
 
-    1. 在入学注册后，携学生卡（学生证）和 VISA 前往 [Cripps Health Centre](https://www.unhs.co.uk/) 进行 NHS 注册 并补打疫苗
+    1. 在入学注册后，携学生卡（学生证）和 VISA 前往 [School of Cultures, Language and Area Studties](https://www.nottingham.ac.uk/clas/index.aspx) 进行 NHS 注册 并补打疫苗
 
-        ![avatar](../image/Chap01-Entry/registration/cripps-health-centre.png)
+        ![avatar](../image/Chap01-Entry/registration/bell-tower.png)
 
-        （见 Building 59，红色 block 圈出）
+        （见 Building 11，红色 block 圈出）
 
     2. 补打疫苗可能会分为两个阶段，second dose 会要求在一段时间后自行前往补打
 
     3. 注册成功后会收到确认信件
 
 
-### 2. 错过学校注册
+### 2. 错过第一轮注册
 
 * 开始时间：任意，需 **网上** 或 **线下** 预约
 
-* 通知方式：短信，电话或邮件
+<!-- * 通知方式：短信，电话或邮件
 
 * 必要材料：申请表，BRP，住房合同
 
@@ -109,4 +109,49 @@ Email:      kobenorriswu@gmail.com
 
     2. **[Change your GP practice](https://www.nhs.uk/using-the-nhs/nhs-services/gps/how-to-register-with-a-gp-practice/)**
 
-        * 于原 GP Office 通知改变 GP 要求，并于新 GP Office 重新申请 
+        * 于原 GP Office 通知改变 GP 要求，并于新 GP Office 重新申请  -->
+
+* 通知方式：邮件
+
+* 必要材料：学生卡（学生证），VISA (BRP)
+
+* 注册流程 (此为往年注册流程)：
+
+    1. 携学生卡（学生证）和 VISA (BRP) 前往 [Cripps Health Centre](https://www.unhs.co.uk/) 进行 NHS 注册 并补打疫苗
+
+        ![avatar](../image/Chap01-Entry/registration/cripps-health-centre.png)
+
+        （见 Building 59，红色 block 圈出）
+
+    2. 补打疫苗可能会分为两个阶段，second dose 会要求在一段时间后自行前往补打
+
+    3. 注册成功后会收到确认信件
+
+## 3. 既往病史词汇表
+
+1. Current personal medical history
+
+    | Eng | 中文 |
+    | :------------: | :----------: |
+    | Thyroid Disease | 甲状腺疾病 |
+    | Atrial Fibrillation | 心房纤颤 |
+    | Schizophrenia | 精神分裂 |
+    | Bipolar affective disorder | 双相情感障碍 |
+    | Epilepsy | 癫痫 |
+    |  |  |
+
+2. Past personal medical history
+
+    | Eng            | 中文         |
+    | :------------: | :----------: |
+    | Stroke | 中风 |
+    | Migraine | 偏头痛 |
+    |  |  |
+
+3. Immunisation
+
+    | Eng            | 中文         |
+    | :------------: | :----------: |
+    | MMR (Measles, Mumps and Rubella) | 麻疹，腮腺炎和风疹 |
+    | Meningitis | 脑膜炎 |
+    |  |  |
