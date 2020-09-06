@@ -4,6 +4,7 @@
 * [入学UNUK](Chap01-Entry/README.md)
     * [签证办理](Chap01-Entry/visa.md)
     * [特刊：起飞之前，忘带了什么？](Chap01-Entry/flight.md)
+    * [抵达英国](Chap01-Entry/arriveinuk.md)
     * [到校（英）报道](Chap01-Entry/registration.md)
     * [院内迎新](Chap01-Entry/schoolwelcome.md)
 * [生活指南](Chap02-Life/README.md)
